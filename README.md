@@ -4,7 +4,7 @@
 
 <br/>
 
-### hobi ngoprek: ricing linux · terminal tools · web dev · arduino
+### just hobby: ricing linux · terminal tools · web dev · arduino
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<h3>yang udah gua pelajari</h3>
+<h3>Things I have learned</h3>
 
 <a href="https://www.javascript.com"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
 <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" alt="PHP"/></a>
