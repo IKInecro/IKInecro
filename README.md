@@ -51,9 +51,9 @@
 
 <div align="center">
 
-<a href="https://github.com/IKInecro/xampp-CLI"><img src="assets/card-xampp-CLI.svg" width="45%" alt="xampp-CLI"/></a><a href="https://github.com/IKInecro/Arduino-cli-manager"><img src="assets/card-Arduino-cli-manager.svg" width="45%" alt="Arduino-cli-manager"/></a>
+<a href="https://github.com/IKInecro/xampp-CLI"><img src="assets/card-xampp-CLI.svg" width="45%" alt="xampp-CLI"/></a><img src="assets/sp.svg" width="6%" alt=""/><a href="https://github.com/IKInecro/Arduino-cli-manager"><img src="assets/card-Arduino-cli-manager.svg" width="45%" alt="Arduino-cli-manager"/></a>
 
-<a href="https://github.com/IKInecro/RFID_absensi"><img src="assets/card-RFID_absensi.svg" width="45%" alt="RFID_absensi"/></a><a href="https://github.com/IKInecro/spin-wheel-SPJB-CUP"><img src="assets/card-spin-wheel-SPJB-CUP.svg" width="45%" alt="spin-wheel-SPJB-CUP"/></a>
+<a href="https://github.com/IKInecro/RFID_absensi"><img src="assets/card-RFID_absensi.svg" width="45%" alt="RFID_absensi"/></a><img src="assets/sp.svg" width="6%" alt=""/><a href="https://github.com/IKInecro/spin-wheel-SPJB-CUP"><img src="assets/card-spin-wheel-SPJB-CUP.svg" width="45%" alt="spin-wheel-SPJB-CUP"/></a>
 
 <a href="https://github.com/IKInecro/idk-crud"><img src="assets/card-idk-crud.svg" width="45%" alt="idk-crud"/></a>
 
