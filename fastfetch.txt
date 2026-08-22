@@ -1,0 +1,19 @@
+[1;32m                   `-`                    [0m[90m┌────────────────────────────────────────────┐[0m
+[1;32m                  .o+`                   [0m[90m│[0m [1;32mjawa[0m[37m@[0m[1;32mpenguin[0m[90m│[0m
+[1;32m                 `ooo/                   [0m[90m└────────────────────────────────────────────┘[0m
+[1;32m                `+oooo:                  [0m [31m● [0m[32m● [0m[33m● [0m[34m● [0m[35m● [0m[36m● [0m[37m● [0m[90m● [0m[31m● [0m[32m● [0m[33m● [0m[34m● [0m[35m● [0m[36m● [0m[37m● [0m[90m● [0m
+[1;32m               `+oooooo:                 [0m[90m┌────────────────────────────────────────────┐[0m
+[1;32m               -+oooooo+:                [0m[32m    OS[0m [90m├[0m[90m→ [0m[37mDebian GNU/Linux 12 (bookworm)[0m [90maarch64[0m
+[1;32m             `/:-:++oooo+:               [0m[32mKernel[0m [90m├[0m[90m→ [0m[37m6.6.76-08024-gb30cb4a129c2[0m
+[1;32m            `/++++/+++++++:              [0m[32m  Pkgs[0m [90m├[0m[90m→ [0m[33m1155[0m[37m (dpkg)[0m
+[1;32m           `/++++++++++++++:             [0m[32m Shell[0m [90m├[0m[90m→ [0m[36mbash[0m[37m 5.2.15[0m
+[32m          `/+++ooooooooooooo/`          [0m[32m    WM[0m [90m├[0m[90m→ [0m[35mHyprland[0m[37m + celestia-shell[0m
+[32m         ./ooosssso++osssssso+`         [0m[32m Theme[0m [90m├[0m[90m→ [0m[37mAdwaita-dark[0m [90m[GTK3][0m
+[32m        .oossssso-````/ossssss+`        [0m[32m   GPU[0m [90m├[0m[90m→ [0m[37mVirtio 1.0[0m [90m(spek kentang approved)[0m
+[32m       -osssssso.      :ssssssso.       [0m[32m   Mem[0m [90m└[0m[90m→ [0m[33m1008MiB[0m[37m / 2787MiB[0m
+[32m      :osssssss/        osssso+++.      [0m[90m├────────────────────────────────────────────┤[0m
+[90m     /ossssssss/        +ssssooo/-      [0m[32m Stack[0m [90m├[0m[90m→ [0m[37mJS · PHP · Shell · HTML[0m
+[90m   `/ossssso+/:-        -:/+osssso+-    [0m[32m Focus[0m [90m├[0m[90m→ [0m[37mterminal tools · low-spec · ricing[0m
+[90m  `+sso+:-`                 `.-/+oso:   [0m[32mStatus[0m [90m└[0m[90m→ [0m[32mopen to collaborate[0m
+[90m `++:.                           `-/+/  [0m[90m└────────────────────────────────────────────┘[0m
+[90m .`                                 `/  [0m
