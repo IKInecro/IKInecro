@@ -6,10 +6,6 @@
 
 ### building terminal tools for low-spec machines · php / js
 
-[![Debian](https://img.shields.io/badge/debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
-[![Arch](https://img.shields.io/badge/arch_1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
-[![Hyprland](https://img.shields.io/badge/hyprland-00C2FF?style=flat-square&logo=hyprland&logoColor=0F172A)](https://hypr.land/)
-
 </div>
 
 ---
@@ -18,30 +14,41 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,php,bash,html,css,nodejs,mysql,arduino&theme=dark" alt="stack"/>
 </a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,debian,git,github,neovim,vscode,vercel,figma&theme=dark" alt="tools"/>
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+
+![Arch](https://img.shields.io/badge/arch_linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Garuda](https://img.shields.io/badge/garuda_linux-4C1D95?style=flat-square&logo=garudalinux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/hyprland-00C2FF?style=flat-square&logo=hyprland&logoColor=0F172A)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=0F172A)
+![ChromeOS](https://img.shields.io/badge/chromeos-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Crostini](https://img.shields.io/badge/crostini-F9AB00?style=flat-square&logo=linux&logoColor=0F172A)
+
+![OpenCode](https://img.shields.io/badge/opencode-22C55E?style=flat-square&logo=opencode&logoColor=0F172A)
+![9Router](https://img.shields.io/badge/9router-427BFF?style=flat-square)
+![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
+![Neovim](https://img.shields.io/badge/neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![VS Code](https://img.shields.io/badge/vs_code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
 </div>
 
 ---
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://github-readme-stats.vercel.app/api?username=IKInecro&show_icons=true&bg_color=14142b&border_color=312e81&title_color=05ff22&icon_color=427bff&text_color=e2e8f0"/>
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://img.shields.io/badge/contribution_graph-%E2%86%92_space_shooter-14142b?style=for-the-badge"/>
   <img src="game.gif" width="100%" alt="my contribution graph as a space shooter game"/>
 </picture>
-
-<details>
-<summary><small>contribution graph gua jadi space shooter — regenerasi otomatis tiap hari</small></summary>
-<br>
-powered by <a href="https://github.com/czl9707/gh-space-shooter">gh-space-shooter</a> · GitHub Actions daily cron
-</details>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IKInecro&show_icons=true&hide_border=true&bg_color=14142b&title_color=05ff22&icon_color=427bff&text_color=e2e8f0&include_all_commits=true&count_private=true" width="32%" alt="GitHub stats"/>
-<img src="https://streak-stats.demolab.com?user=IKInecro&background=14142B&border=00000000&stroke=312E81&ring=05FF22&fire=EAB308&currStreakLabel=427BFF&sideLabels=e2e8f0&currStreakNum=e2e8f0&dates=64748b" width="34%" alt="GitHub streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKInecro&layout=compact&hide_border=true&bg_color=14142b&title_color=05ff22&text_color=e2e8f0&langs_count=6" width="26%" alt="Top languages"/>
-
-</div>
 
 ---
 
