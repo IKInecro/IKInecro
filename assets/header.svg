@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300"><defs>
+<linearGradient id="tg" x1="0" y1="0" x2="0" y2="1">
+ <stop offset="0" stop-color="#f0f6fc" stop-opacity=".055"/>
+ <stop offset="1" stop-color="#f0f6fc" stop-opacity=".015"/>
+</linearGradient>
+<linearGradient id="eg" x1="0" y1="0" x2="0" y2="1">
+ <stop offset="0" stop-color="#f0f6fc" stop-opacity=".18"/>
+ <stop offset="1" stop-color="#f0f6fc" stop-opacity=".03"/>
+</linearGradient>
+<linearGradient id="sw" x1="0" y1="0" x2="1" y2="0">
+ <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+ <stop offset=".5" stop-color="#ffffff" stop-opacity=".07"/>
+ <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="tri" x1="0" y1="0" x2="1" y2="0">
+ <stop offset="0" stop-color="#58a6ff"/><stop offset=".5" stop-color="#bc8cff"/><stop offset="1" stop-color="#3fb950"/>
+</linearGradient>
+<filter id="sh" x="-30%" y="-30%" width="160%" height="160%">
+ <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity=".45"/>
+</filter>
+<filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+ <feGaussianBlur stdDeviation="8"/>
+</filter><linearGradient id="bgH" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="glowB"><stop offset="0" stop-color="#58a6ff" stop-opacity=".13"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></radialGradient><radialGradient id="glowP"><stop offset="0" stop-color="#bc8cff" stop-opacity=".11"/><stop offset="1" stop-color="#bc8cff" stop-opacity="0"/></radialGradient><linearGradient id="nameG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f0f6fc"/><stop offset="1" stop-color="#9ea7b3"/></linearGradient><pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#8b949e" stroke-opacity=".06"/></pattern><clipPath id="hclip"><rect width="880" height="300" rx="22"/></clipPath><filter id="nglow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="0" stdDeviation="9" flood-color="#58a6ff" flood-opacity=".35"/></filter><style>.sweep{animation:sweep 9s cubic-bezier(.45,.05,.35,1) infinite}
+@keyframes sweep{0%{transform:translateX(-280px)}60%,100%{transform:translateX(1040px)}}
+.pulse{animation:pulse 2.2s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.blink{animation:blink 1.1s steps(2,start) infinite}
+@keyframes blink{to{visibility:hidden}}
+.l{opacity:0;animation:fadein .45s ease forwards}
+@keyframes fadein{to{opacity:1}}
+.d1{animation-delay:.15s}.d2{animation-delay:.55s}.d3{animation-delay:.95s}.d4{animation-delay:1.35s}.d5{animation-delay:1.75s}
+@media(prefers-reduced-motion:reduce){.sweep,.pulse,.blink{animation:none}.l{opacity:1;animation:none}}</style></defs><rect width="880" height="300" rx="22" fill="url(#bgH)" stroke="#30363d"/>
+<rect width="880" height="300" rx="22" fill="url(#grid)" clip-path="url(#hclip)"/>
+<ellipse cx="140" cy="30" rx="260" ry="170" fill="url(#glowB)"/>
+<ellipse cx="800" cy="290" rx="280" ry="170" fill="url(#glowP)"/>
+<g><rect x="48" y="54" width="206" height="30" rx="15" fill="#3fb950" fill-opacity=".09" stroke="#3fb950" stroke-opacity=".35"/><circle class="pulse" cx="66" cy="69" r="4" fill="#3fb950"/><text x="80" y="73" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="2" fill="#3fb950">OPEN TO COLLAB</text></g>
+<text x="46" y="150" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="60" font-weight="bold" letter-spacing="1" fill="url(#nameG)" filter="url(#nglow)">IKInecro</text>
+<rect x="50" y="166" width="230" height="5" rx="2.5" fill="url(#tri)"/>
+<text x="50" y="206" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">just hobby &#183; ricing linux &#183; terminal tools &#183; web dev &#183; arduino</text>
+<text x="50" y="230" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="11" fill="#6e7681">// building things that live in the terminal</text>
+<g filter="url(#sh)"><rect x="500" y="54" width="332" height="192" rx="14" fill="#010409" fill-opacity=".92"/></g>
+<rect x="500" y="54" width="332" height="192" rx="14" fill="url(#tg)" stroke="url(#eg)"/>
+<circle cx="520" cy="76" r="5.5" fill="#f85149"/><circle cx="542" cy="76" r="5.5" fill="#d29922"/><circle cx="564" cy="76" r="5.5" fill="#3fb950"/>
+<text x="816" y="80" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="10" fill="#8b949e">~/github/profile</text>
+<line x1="500" y1="92" x2="832" y2="92" stroke="#21262d"/>
+<text class="l d1" x="516" y="118" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="12.5"><tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3" dx="7">whoami</tspan></text>
+<text class="l d2" x="516" y="142" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="12.5"><tspan fill="#58a6ff" font-weight="bold">ikinecro</tspan><tspan fill="#6e7681" dx="9"># builder &amp; breaker</tspan></text>
+<text class="l d3" x="516" y="166" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="12.5"><tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3" dx="7">stack --list</tspan></text>
+<text class="l d4" x="516" y="190" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#d29922">[linux &#183; web &#183; arduino]</text>
+<text class="l d5" x="516" y="216" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#3fb950">$</text>
+<rect class="blink" x="528" y="203" width="7" height="15" fill="#58a6ff"/></svg>
