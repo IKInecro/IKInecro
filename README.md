@@ -75,9 +75,7 @@
 
 <div align="center">
 
-<a href="https://github.com/IKInecro"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=e6edf3" alt="GitHub"/></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=IKInecro&color=58a6ff&style=flat-square&label=visitors" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=IKInecro&style=flat-square&label=VIEWS&color=161b22" alt="profile views"/><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIKInecro&query=%24.followers&label=FOLLOWERS&logo=github&logoColor=e6edf3&labelColor=0d1117&color=161b22&style=flat-square" alt="followers"/><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIKInecro&query=%24.public_repos&label=REPOS&logo=git&logoColor=e6edf3&labelColor=0d1117&color=161b22&style=flat-square" alt="public repos"/><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIKInecro&query=%24.public_gists&label=GISTS&logo=octicon%3Agist-16&logoColor=e6edf3&labelColor=0d1117&color=161b22&style=flat-square" alt="public gists"/>
 
 </div>
 
